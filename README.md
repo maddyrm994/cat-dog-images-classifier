@@ -41,18 +41,3 @@ The model uses the ResNet-50 architecture with the following layers:
    ```
    jupyter notebook cats-vs-dogs-images-classifier.ipynb
    ```
-
-## Results
-
-The trained model achieves the following results on the validation set:
-- Validation loss: [value]
-- Validation accuracy: [value]
-
-## Submission
-
-The notebook generates a submission file in CSV format that can be uploaded to Kaggle for evaluation.
-
-## Acknowledgements
-
-- The dataset used in this project is from the Kaggle "Dogs vs. Cats Redux" competition.
-- The ResNet-50 architecture is pre-trained on ImageNet.
